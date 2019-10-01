@@ -15,3 +15,5 @@
 * [安装 Tomcat 提示「指定的服务未安装」](https://github.com/hqweay/fix-bugs-oh-yeah/issues/2)
 
 * [MySQL Workbench 左下角显示 no connection](https://github.com/hqweay/fix-bugs-oh-yeah/issues/1)
+
+* [V2ray 代理给局域网问题（应对 Android 刷原生系统激活等需求）](https://github.com/hqweay/fix-bugs-oh-yeah/issues/7)
